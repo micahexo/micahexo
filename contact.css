@@ -1,0 +1,39 @@
+body {
+
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: white;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-size: x-large;
+    font-style: normal;
+    font-weight: normal;
+      color: black;
+ 
+  }
+ 
+p {
+  color: black;
+}
+
+a{
+  color: black;
+}
+
+.social-icon {
+    font-size: 25px;
+    color: black;
+    text-decoration: none;
+    transition: color 0.2s;
+    margin: 0 10px;
+}
+
+.social-icon:hover {
+    color: #303030;
+}
+
+.back {
+    color: black;
+}
